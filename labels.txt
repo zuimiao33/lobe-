@@ -1,0 +1,6 @@
+Battery
+Bottle
+Cans
+Ceramics
+Cigarette
+Vegetables
